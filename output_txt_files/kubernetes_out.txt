@@ -1,1 +1,9 @@
-<paste log output from Kubernetes-mediated prediction, here>
+$ ./make_prediction.sh
+Port: 8000
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   260  100    48  100   212   1655   7310 --:--:-- --:--:-- --:--:--  8965{
+  "prediction": [
+    20.35373177134412
+  ]
+}
